@@ -12,7 +12,8 @@ terraform {
 }
 
 provider "volterra" {
-  # Configuration options
+  # Configuration options / set VES_P12_PASSWORD= xxxxx
   # https://registry.terraform.io/providers/volterraedge/volterra/latest
-  
+   api_p12_file = var.f5_xc_api_p12_file
+   url   = var.f5_xc_api_url
 }

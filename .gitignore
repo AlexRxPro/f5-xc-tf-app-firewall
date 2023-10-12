@@ -1,4 +1,10 @@
 cred.tf
 .terraform
 .terraform.lock.hcl
-
+*.tfstate*
+.vscode
+*.rej
+dist
+.cache
+*.p12
+cred
