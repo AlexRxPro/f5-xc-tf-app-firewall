@@ -15,7 +15,7 @@ resource "volterra_app_firewall" "waf1" {
   use_default_blocking_page = true
 
   // One of the arguments from this list "default_bot_setting bot_protection_setting" must be set
-  #default_bot_setting = true
+  #default_bot_setting = true-
    bot_protection_setting {
     good_bot_action         = "REPORT"
     malicious_bot_action    = "BLOCK"

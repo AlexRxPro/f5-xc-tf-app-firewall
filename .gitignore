@@ -7,4 +7,4 @@ cred.tf
 dist
 .cache
 *.p12
-cred
+variables.tf
