@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Terraform : version 1.6.0 <br>Provider Volterra : v0.11.26 </p>
+<p align="left">Terraform : version 1.6.0 <br>Provider Volterra : version 0.11.26 </p>
 
 ###
 
