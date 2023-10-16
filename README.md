@@ -32,10 +32,10 @@
 <h2 align="left">link to documentation </h2>
 
 ###
-Documentation for provider  - https://registry.terraform.io/providers/volterraedge/volterra/latest/docs
-App Delivery Network Module - https://registry.terraform.io/modules/volterraedge/app-delivery-network/volterra/latest
-Web App Security Module -     https://registry.terraform.io/modules/volterraedge/web-app-security/volterra/latest
+Documentation for provider  - https://registry.terraform.io/providers/volterraedge/volterra/latest/docs <br>
+App Delivery Network Module - https://registry.terraform.io/modules/volterraedge/app-delivery-network/volterra/latest <br>
+Web App Security Module -     https://registry.terraform.io/modules/volterraedge/web-app-security/volterra/latest <br>
 
-API Documentation :  https://registry.terraform.io/providers/volterraedge/volterra/0.11.26/docs/resources/volterra_app_firewall
-Provider source code :  https://github.com/volterraedge/terraform-provider-volterra/blob/main/volterra/resource_auto_volterra_app_firewall.go
+API Documentation :  https://registry.terraform.io/providers/volterraedge/volterra/0.11.26/docs/resources/volterra_app_firewall <br>
+Provider source code :  https://github.com/volterraedge/terraform-provider-volterra/blob/main/volterra/resource_auto_volterra_app_firewall.go <br>
 ###
